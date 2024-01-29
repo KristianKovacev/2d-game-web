@@ -8,4 +8,4 @@ Ci saranno degli ostacoli come la lava, delle bombe o delle puntine che renderan
 
 
 
-![img1-doc](/home/kristiankovacev/Documents/Scuola/5°/TPSIT/00-Javascript/01-EserciziJS/09-giochino/Kovacev/ProgettoFinito/img/img1-doc.png)
+![img1-doc](/img/img1-doc.png)
